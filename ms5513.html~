@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <center>
+    <h1>Matthew So</h1>
+    </center>
+<table style="width:100%">
+  <tr>
+    <th>Favorite Color</th>
+    <th>Favorite Image</th>
+  </tr>
+  <tr>
+    <td><center><img src="red.jpg" alt="Color" height="300" width="300"></center></td>
+    <td><center><img src="photo.jpg" alt="Photo" height="300" width="459"></center></td> 
+  </tr>
+</table>
+
+
+</body>
+</html>
